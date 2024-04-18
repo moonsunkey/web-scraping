@@ -43,11 +43,11 @@ This project involves web scraping to collect Mars-related data from various web
 **Visualizations**:
 
 - **Average Temperature by Month**: 
-  ![Average Temperature per Month](./images/Average_temp_per_month_sorted.png)
+  ![Average Temperature per Month](./Images/Average_temp_per_month_sorted.png)
 - **Average Atmospheric Pressure by Month**: 
-  ![Average Pressure by Month](./images/Average_Pressure_by_Month.png)
+  ![Average Pressure by Month](./Images/Average_Pressure_by_Month.png)
 - **Temperature by Terrestrial Days**: 
-  ![Temperature by Terrestrial Days](./images/Temp_by_Terrestrial_Days.png)
+  ![Temperature by Terrestrial Days](./Images/Temp_by_Terrestrial_Days.png)
 
 **File Organization**:
 
