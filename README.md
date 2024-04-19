@@ -34,7 +34,7 @@ This project involves web scraping to collect Mars-related data from various web
 2. **Data Analysis**:
    - Answer key questions about Martian weather using Pandas:
      - How many months exist on Mars?
-     - How many Martian days' worth of data are in the dataset?
+     - How many Martian days' worth of data are in the dataset? Done based on both visiual and calculation.
      - Identify the coldest and warmest months on Mars by calculating the average minimum daily temperature and visualizing it with a bar chart.
      - Determine which months have the lowest and highest atmospheric pressure and visualize the results.
 3. **Exporting Data**:
